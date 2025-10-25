@@ -91,7 +91,7 @@ If additional information is found you will be asked in a dialog which informati
 
 ## Adding a full text document
 
-Usually, you also want to attach a reference to the full-text of a reference. For this, you can use the "file" field in the "General" tab. Here you can either attach a file manually, search for an already existing local file matching the citationkey pattern, or trying to automatically download a matching full text from the web.
+Usually, you also want to attach the full-text document to a reference. For this, you can use the "file" field in the "General" tab. Here you can either attach a file manually, search for an already existing local file matching the citation key pattern, or try to automatically download a matching full text from the web.
 
 {% hint style="info" %}
 In order to use the automated feature, it is necessary to set-up a file directory first. To do so, please go to "Options" > "Preferences", go to "Linked files" section, and select there an existing folder as the "Main file directory":
